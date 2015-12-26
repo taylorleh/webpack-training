@@ -2,4 +2,4 @@
 
 // loaders read right -> left
 require('./styles.css');
-document.write('hello world, the current time is ', require('./displayTime.js'));
+document.write('hello World, the current time is ', require('./displayTime.js'));
